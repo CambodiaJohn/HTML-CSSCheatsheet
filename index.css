@@ -1,0 +1,42 @@
+
+body {
+    background-color: #372c2e;
+    font-family: "DejaVu Serif", serif;
+}
+
+h1 {
+    background-color: #7a431d;
+    color: whitesmoke;
+    text-align: center;
+    
+}
+
+ol {
+    color:white;
+}
+
+p {
+    border: 0.5rem solid #de9e48;
+    border-collapse: collapse;
+    text-align: center;
+    padding: 1rem;
+    color: white;
+
+  }
+
+table, th, td {
+    border: 0.5rem solid #de9e48;
+    border-collapse: collapse;
+    padding: 2rem;
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+    font-weight: bold;
+   
+  }
+
+
+span {
+      color: limegreen;
+      font-weight: bold;
+  }
